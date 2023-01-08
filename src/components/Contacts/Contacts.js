@@ -138,7 +138,7 @@ function Contacts() {
           )
           .then(
             (result) => {
-              console.log("success");
+              console.log("success", form);
               setSuccess(true);
               setErrMsg("");
               setName("");

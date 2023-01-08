@@ -1,7 +1,7 @@
 export const aboutData = {
-  title: "Who I am",
-  description1: "My name is Virinchi manepalli. I'm a Frontend developer.",
+  title: "About me",
+  description1: "Love to",
   description2:
-    "I am a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. My current stack includes Next.js, React.js, Redux, Bootstrap, Ant Design, Material UI, MongoDB, Mysql, PostgreSQL, Firebase, Cloudinary, etc.",
+    "Passionate Frontend developer having two plus years of experience in helping startup's to grow.I like to tackle problems and solve them in the best Javascripty way.Currently working with",
   image: 1,
 };

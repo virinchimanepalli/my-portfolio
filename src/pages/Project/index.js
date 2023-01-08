@@ -10,6 +10,7 @@ import { ThemeContext } from "../../contexts/ThemeContext";
 import { headerData } from "../../data/headerData";
 import { projectsData } from "../../data/projectsData";
 import "./ProjectPage.css";
+import Experience from "./../../components/Experience/Experience";
 
 function ProjectPage() {
   const [search, setSearch] = useState("");
@@ -83,10 +84,10 @@ function ProjectPage() {
         <Link to="/">
           <AiOutlineHome className={classes.home} />
         </Link>
-        <h1 style={{ color: theme.secondary }}>Projects</h1>
+        <h1 style={{ color: theme.secondary }}>Work Experience</h1>
       </div>
       <div className="projectPage-container">
-        <div className="projectPage-search">
+        {/* <div className="projectPage-search">
           <input
             type="text"
             value={search}
@@ -94,7 +95,7 @@ function ProjectPage() {
             placeholder="Search project..."
             className={classes.search}
           />
-        </div>
+        </div> */}
         <div className="project-container">
           <Grid
             className="project-grid"
