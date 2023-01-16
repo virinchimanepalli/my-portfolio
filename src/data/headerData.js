@@ -2,7 +2,7 @@ export const headerData = {
   name: "Virinchi Manepalli",
   title: "Hello! I am",
   desciption:
-    "Hello! I am Virinchi Manepalli, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and new things and am Passionate about Problem Solving. ",
+    "Frontend developer having two plus years of experience in helping startup's to grow.I like to tackle problems and solve them in the best Javascripty way.",
   image: "https://i.ibb.co/Vv8JRFq/virinchi-dp.jpg",
   imagebw: "https://i.ibb.co/Cw2Xp90/abu-said-bw.jpg",
   resumePdf:

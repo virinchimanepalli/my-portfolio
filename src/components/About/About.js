@@ -44,7 +44,7 @@ function About() {
                   openInNewTab("https://sparkstudio.co/");
                 }}
               >
-                @Spark studio (YCS21)
+                @Spark studio (YC-S21)
               </span>
             </p>
           </div>
