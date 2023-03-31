@@ -15,7 +15,7 @@ export const projectsData = [
       "Designed and developed a storytelling game using React.js and Microsoft Azure Rest APIs which analyses the narration and sends analysis reports to the Parents",
     tags: ["React.js", "Microsoft Azure Rest APi's"],
     code: "",
-    demo: "https://sparkstudio.co/storytelling",
+    demo: "https://sparkstudio.co/",
     image: five,
   },
   {
@@ -66,7 +66,7 @@ export const projectsData = [
       "Developed fully functional Mobile, Web, Desktop apps that enable users to extract a mathematical equation from an image by converting it to latex.",
     tags: ["React.js", "React native", "Electron"],
     code: "",
-    demo: "https://trysolvio.ai/tools/capture",
+    demo: "",
     image: four,
   },
 ];

@@ -46,6 +46,7 @@ function About() {
               >
                 @Spark studio (YC-S21)
               </span>
+              {aboutData.description3}{" "}
             </p>
           </div>
           <div className="about-animation">
